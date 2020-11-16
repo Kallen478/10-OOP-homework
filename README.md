@@ -27,6 +27,6 @@
 
 Contact me with any questions via email
 
-<img src="screen-shot-1">
+<img src="screen-shot-1.png">
 
-<img src="screen-shot-2">
+<img src="screen-shot-2.png">
